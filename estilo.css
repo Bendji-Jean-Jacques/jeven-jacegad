@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+background-color: 000 ;
+
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+
+}
+
+main{
+    height: 200px;
+    background: rgb(255, 255, 255);
+
+}
+
+div{
+    height: 200px;
+    background: cyan;
+
+}
+
+section{
+    height: 200px;
+    background: rgb(255, 54, 54);
+}
+
+article{
+height: 200px;
+background: rgb(43, 255, 0);
+}
+
+a{
+    text-decoration: none;
+    color: aqua;
+}
+
+img{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 500;
+}
+
